@@ -1,0 +1,2 @@
+# fokus
+KDE desktop search
